@@ -71,7 +71,7 @@
 				}
 			}
 		},
-		"flag": "singlePageBigPicture|noRating|noTag",
+		"flag": "noRating|preloadGallery",
 		"galleryRule": {
 			"description": {
 				"fun": "html",
@@ -79,18 +79,43 @@
 			},
 			"pictureRule": {
 				"item": {
-					"selector": "div.gallary_wrap ul li.gallary_item div.pic_box"
+					"selector": "div.gallary_wrap ul li.gallary_item"
 				},
 				"thumbnail": {
-                	"fun": "attr",
-                	"param": "data-original",
-					"selector": "a img"
+					"fun": "attr",
+					"param": "data-original",
+					"selector": "div.pic_box a img"
 				},
 				"url": {
 					"fun": "attr",
 					"param": "href",
 					"selector": "a"
 				}
+			},
+			"tagRule": {
+				"item": {
+					"selector": ".tagshow"
+				},
+				"title": {
+					"fun": "text",
+					"selector": "this"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "href",
+					"regex": "(/albums-index)-(.*)",
+					"replacement": "$1-page-{page:1}-$2",
+					"selector": "this"
+				}
+			},
+			"categories": {
+				"selector": "label", 
+				"fun": "text",
+				"regex": "分类:(.*)"
+			},
+			"uploader": {
+				"selector": ".uwuinfo p", 
+				"fun": "text"
 			}
 		},
 		"galleryUrl": "https://wnacg.fun/photos-index-page-{page:1}-aid-{idCode:}.html",
@@ -98,8 +123,8 @@
 		"index": 0,
 		"indexRule": {
 			"cover": {
-            	"fun": "attr",
-            	"param": "data-original",
+				"fun": "attr",
+				"param": "data-original",
 				"selector": "div.pic_box a img"
 			},
 			"datetime": {
@@ -127,5 +152,5 @@
 		"searchUrl": "https://wnacg.fun/albums-index-page-{page:1}-sname-{keyword:}.html",
 		"sid": 87,
 		"title": "绅士漫画fun",
-		"versionCode": 1
+		"versionCode": 2
 	}
