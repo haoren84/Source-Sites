@@ -363,13 +363,13 @@
             },
 			{
 				"sid": 312,
-                "title": "绅士漫画(下载)",
+                "title": "绅士漫画fun",
                 "author": "Haoren84",
                 "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/wnacg.png",
-                "description": "专注分享汉化本子",
-                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/绅士漫画(下载).txt",
-                "versionCode": 7,
-                "lastUpdate": "2020-09-30 00:33:00",
+                "description": "专注分享汉化本子，网站提供下载。",
+                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/绅士漫画fun.txt",
+                "versionCode": 1,
+                "lastUpdate": "2020-10-14 11:20:00",
                 "r18": true
 			}
         ]
