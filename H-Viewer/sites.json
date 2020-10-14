@@ -363,7 +363,7 @@
             },
 			{
 				"sid": 312,
-                "title": "绅士漫画",
+                "title": "绅士漫画(下载)",
                 "author": "Haoren84",
                 "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/wnacg.png",
                 "description": "专注分享汉化本子",
@@ -456,18 +456,18 @@
                 "versionCode": 2,
                 "lastUpdate": "2016-10-16 05:10:26",
                 "r18": false
-            }，
+            },
 			{
                 "sid": 408,
                 "title": "宅男女神机构]",
                 "author": "Haoren84",
                 "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/宅男女神.png",
                 "description": "分享最全的宅男女神资料,最高清的美女图片,推女神,美媛馆等精品美女套图,最新的美女博客私房照,绝对不容错过！看美女就像喝水,每天都是必须的！",
-                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神[机构].txt",
+                "json"： "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神[机构].txt",
                 "versionCode": 2,
                 "lastUpdate": "2016-10-16 05:10:26",
                 "r18": false
-            }，
+            },
 			{
                 "sid": 409,
                 "title": "宅男女神[地区]",
@@ -478,7 +478,7 @@
                 "versionCode": 2,
                 "lastUpdate": "2016-10-16 05:10:26",
                 "r18": false
-            }，
+            },
 			{
                 "sid": 410,
                 "title": "宅男女神[风格]",
@@ -489,7 +489,7 @@
                 "versionCode": 2,
                 "lastUpdate": "2016-10-16 05:10:26",
                 "r18": false
-            }，
+            },
 			{
                 "sid": 411,
                 "title": "宅男女神[身材]",
@@ -500,7 +500,7 @@
                 "versionCode": 2,
                 "lastUpdate": "2016-10-16 05:10:26",
                 "r18": false
-            }，
+            },
 			{
                 "sid": 412,
                 "title": "宅男女神[服饰]",
