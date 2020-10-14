@@ -1,0 +1,83 @@
+﻿    {
+        "categories": [
+            {
+                "cid": 1,
+                "title": "最新",
+                "url": "http://hentaiplay.net/hentai/episodes/new-releases/{pageStr:page/{page:1}/}"
+            },
+            {
+                "cid": 2,
+                "title": "英语字幕",
+                "url": "http://hentaiplay.net/hentai/episodes/english-subbed/{pageStr:page/{page:1}/}"
+            },
+            {
+                "cid": 3,
+                "title": "无码",
+                "url": "http://hentaiplay.net/hentai/episodes/uncensored/{pageStr:page/{page:1}/}"
+            }
+        ],
+        "cookie": "",
+        "flag": "noRating",
+        "galleryRule": {
+            "description": {
+                "fun": "html",
+                "selector": "div.seriesmeta"
+            },
+            "videoRule": {
+                "content": {
+                    "fun": "attr",
+                    "param": "src",
+                    "selector": "this"
+                },
+                "item": {
+                    "selector": "video#my_video_1>source"
+                }
+            }
+        },
+        "galleryUrl": "http://hentaiplay.net/{idCode:}",
+        "gid": 0,
+        "index": 0,
+        "indexRule": {
+            "cover": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "div.thumb img"
+            },
+            "idCode": {
+                "fun": "attr",
+                "param": "href",
+                "regex": "hentaiplay.net/(.*)",
+                "selector": "div.thumb>a"
+            },
+            "item": {
+                "selector": "div.item"
+            },
+            "tagRule": {
+                "item": {
+                    "selector": "span.new-wrapper>a"
+                },
+                "title": {
+                    "fun": "text",
+                    "selector": "this"
+                },
+                "url": {
+                    "fun": "attr",
+                    "param": "href",
+                    "regex": "(.*)",
+                    "replacement": "$1page/{page:1}/",
+                    "selector": "this"
+                }
+            },
+            "title": {
+                "fun": "text",
+                "selector": "h2.entry-title>a"
+            }
+        },
+        "indexUrl": "http://hentaiplay.net/hentai/episodes/new-releases/{pageStr:page/{page:1}/}",
+        "isGrid": false,
+        "loginUrl": "http://hentaiplay.net/wp-login.php",
+        "searchUrl": "http://hentaiplay.net/{pageStr:page/{page:1}/}?s={keyword:}",
+        "sid": 70,
+        "title": "Hentai Play",
+        "versionCode": 0
+    }
