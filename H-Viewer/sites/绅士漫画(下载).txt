@@ -1,4 +1,4 @@
-{
+	{
 		"categories": [
 			{
 				"cid": 1,
@@ -124,6 +124,6 @@
 		"loginUrl": "https://wnacg.fun/users-login.html",
 		"searchUrl": "https://wnacg.fun/albums-index-page-{page:1}-sname-{keyword:}.html",
 		"sid": 87,
-		"title": "绅士漫画",
+		"title": "绅士漫画(下载)",
 		"versionCode": 1
 	}
