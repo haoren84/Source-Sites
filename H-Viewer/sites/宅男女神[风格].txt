@@ -1,0 +1,197 @@
+{
+		"categories": [
+			{
+				"cid": 1,
+				"title": "美女图片",
+				"url": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 2,
+				"title": " 萝莉",
+				"url": "http://www.nvshens.org/gallery/luoli/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 3,
+				"title": " 姐妹花",
+				"url": "http://www.nvshens.org/gallery/jiemeihua/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 4,
+				"title": " 清新",
+				"url": "http://www.nvshens.org/gallery/qingxin/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 5,
+				"title": " 萌系",
+				"url": "http://www.nvshens.org/gallery/mengxi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 6,
+				"title": " 治愈系",
+				"url": "http://www.nvshens.org/gallery/zhiyu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 7,
+				"title": " 清纯",
+				"url": "http://www.nvshens.org/gallery/qingchun/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 8,
+				"title": " 气质",
+				"url": "http://www.nvshens.org/gallery/qizhi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 9,
+				"title": " 性感",
+				"url": "http://www.nvshens.org/gallery/xinggan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 10,
+				"title": " 冷艳",
+				"url": "http://www.nvshens.org/gallery/lengyan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 11,
+				"title": " 野性",
+				"url": "http://www.nvshens.org/gallery/yexing/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 12,
+				"title": " 诱惑",
+				"url": "http://www.nvshens.org/gallery/youhuo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 13,
+				"title": " 养眼",
+				"url": "http://www.nvshens.org/gallery/yangyan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 14,
+				"title": " 大尺度",
+				"url": "http://www.nvshens.org/gallery/dachidu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 15,
+				"title": " 妩媚",
+				"url": "http://www.nvshens.org/gallery/wumei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 16,
+				"title": " 成熟",
+				"url": "http://www.nvshens.org/gallery/chengshu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 17,
+				"title": " 可爱",
+				"url": "http://www.nvshens.org/gallery/keai/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 18,
+				"title": " 玉背",
+				"url": "http://www.nvshens.org/gallery/yubei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 19,
+				"title": " 双马尾",
+				"url": "http://www.nvshens.org/gallery/shuangmawei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 20,
+				"title": " 运动",
+				"url": "http://www.nvshens.org/gallery/yundong/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 21,
+				"title": " 知性",
+				"url": "http://www.nvshens.org/gallery/zhixing/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 22,
+				"title": " 非主流",
+				"url": "http://www.nvshens.org/gallery/feizhuliu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 23,
+				"title": " 纹身",
+				"url": "http://www.nvshens.org/gallery/wenshen/{pageStr:{page:1}.html}"
+			}
+		],
+		"disableHProxy": false,
+		"flag": "noRating|preloadGallery",
+		"galleryRule": {
+			"category": {
+				"fun": "html",
+				"regex": ">(\\d+)张.*?浏览了(.*?)次",
+				"replacement": "$1张照片　浏览$2次",
+				"selector": "div#dinfo"
+			},
+			"datetime": {
+				"fun": "html",
+				"regex": "(\\d{4}/\\d{2}/\\d{2})",
+				"selector": "div#dinfo"
+			},
+			"description": {
+				"fun": "html",
+				"selector": "div#ddesc"
+			},
+			"pictureRule": {
+				"item": {
+					"selector": "ul#hgallery img"
+				},
+				"thumbnail": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				}
+			},
+			"tagRule": {
+				"item": {
+					"selector": "ul#utag > li"
+				},
+				"title": {
+					"fun": "html",
+					"selector": "a"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "href",
+					"regex": "(.*)",
+					"replacement": "$1{pageStr:{page:1}.html}",
+					"selector": "a"
+				}
+			}
+		},
+		"galleryUrl": "http://www.nvshens.org/g/{idCode:}/{page:1}.html",
+		"gid": 5,
+		"index": 2,
+		"indexRule": {
+			"cover": {
+				"fun": "attr",
+				"param": "data-original",
+				"selector": "a > img"
+			},
+			"idCode": {
+				"fun": "attr",
+				"param": "href",
+				"regex": "/g/(\\d*)",
+				"selector": "a.galleryli_link,a.igalleryli_link"
+			},
+			"item": {
+				"selector": "ul>li.galleryli,ul>li.igalleryli"
+			},
+			"title": {
+				"fun": "html",
+				"selector": "div.galleryli_title>a,div.igalleryli_title>a"
+			}
+		},
+		"indexUrl": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}",
+		"isGrid": false,
+		"sid": 197,
+		"title": "宅男女神[风格]",
+		"versionCode": 2
+	}

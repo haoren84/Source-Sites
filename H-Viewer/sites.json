@@ -360,7 +360,18 @@
                 "versionCode": 4,
                 "lastUpdate": "2020-03-04 04:28:00",
                 "r18": true
-            }
+            },
+			{
+				"sid": 312,
+                "title": "绅士漫画",
+                "author": "Haoren84",
+                "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/wnacg.png",
+                "description": "专注分享汉化本子",
+                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/绅士漫画(下载).txt",
+                "versionCode": 7,
+                "lastUpdate": "2020-09-30 00:33:00",
+                "r18": true
+			}
         ]
     },
     {
@@ -442,6 +453,61 @@
                 "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/宅男女神.png",
                 "description": "分享最全的宅男女神资料,最高清的美女图片,推女神,美媛馆等精品美女套图,最新的美女博客私房照,绝对不容错过！看美女就像喝水,每天都是必须的！",
                 "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神.txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-16 05:10:26",
+                "r18": false
+            }，
+			{
+                "sid": 408,
+                "title": "宅男女神机构]",
+                "author": "Haoren84",
+                "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/宅男女神.png",
+                "description": "分享最全的宅男女神资料,最高清的美女图片,推女神,美媛馆等精品美女套图,最新的美女博客私房照,绝对不容错过！看美女就像喝水,每天都是必须的！",
+                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神[机构].txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-16 05:10:26",
+                "r18": false
+            }，
+			{
+                "sid": 409,
+                "title": "宅男女神[地区]",
+                "author": "Haoren84",
+                "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/宅男女神.png",
+                "description": "分享最全的宅男女神资料,最高清的美女图片,推女神,美媛馆等精品美女套图,最新的美女博客私房照,绝对不容错过！看美女就像喝水,每天都是必须的！",
+                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神[地区].txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-16 05:10:26",
+                "r18": false
+            }，
+			{
+                "sid": 410,
+                "title": "宅男女神[风格]",
+                "author": "Haoren84",
+                "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/宅男女神.png",
+                "description": "分享最全的宅男女神资料,最高清的美女图片,推女神,美媛馆等精品美女套图,最新的美女博客私房照,绝对不容错过！看美女就像喝水,每天都是必须的！",
+                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神[风格].txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-16 05:10:26",
+                "r18": false
+            }，
+			{
+                "sid": 411,
+                "title": "宅男女神[身材]",
+                "author": "Haoren84",
+                "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/宅男女神.png",
+                "description": "分享最全的宅男女神资料,最高清的美女图片,推女神,美媛馆等精品美女套图,最新的美女博客私房照,绝对不容错过！看美女就像喝水,每天都是必须的！",
+                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神[身材].txt",
+                "versionCode": 2,
+                "lastUpdate": "2016-10-16 05:10:26",
+                "r18": false
+            }，
+			{
+                "sid": 412,
+                "title": "宅男女神[服饰]",
+                "author": "Haoren84",
+                "icon": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/icons/宅男女神.png",
+                "description": "分享最全的宅男女神资料,最高清的美女图片,推女神,美媛馆等精品美女套图,最新的美女博客私房照,绝对不容错过！看美女就像喝水,每天都是必须的！",
+                "json": "https://raw.githubusercontent.com/haoren84/Source-Sites/main/H-Viewer/sites/宅男女神[服饰].txt",
                 "versionCode": 2,
                 "lastUpdate": "2016-10-16 05:10:26",
                 "r18": false

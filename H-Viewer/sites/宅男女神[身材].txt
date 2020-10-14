@@ -1,0 +1,167 @@
+{
+		"categories": [
+			{
+				"cid": 1,
+				"title": "美女图片",
+				"url": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 2,
+				"title": " 蜜桃臀",
+				"url": "http://www.nvshens.org/gallery/mitaotun/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 3,
+				"title": " 骨感",
+				"url": "http://www.nvshens.org/gallery/gugan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 4,
+				"title": " 女神",
+				"url": "http://www.nvshens.org/gallery/nvshen/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 5,
+				"title": " 极品",
+				"url": "http://www.nvshens.org/gallery/jipin/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 6,
+				"title": " 美腿",
+				"url": "http://www.nvshens.org/gallery/meitui/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 7,
+				"title": " 波涛胸涌",
+				"url": "http://www.nvshens.org/gallery/botao/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 8,
+				"title": " 人间胸器",
+				"url": "http://www.nvshens.org/gallery/xiongqi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 9,
+				"title": " 娇小萝莉",
+				"url": "http://www.nvshens.org/gallery/jiaoxiao/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 10,
+				"title": " 童颜巨乳",
+				"url": "http://www.nvshens.org/gallery/tongyanjuru/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 11,
+				"title": " 肉感",
+				"url": "http://www.nvshens.org/gallery/rougan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 12,
+				"title": " 白嫩",
+				"url": "http://www.nvshens.org/gallery/bainen/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 13,
+				"title": " 小麦色",
+				"url": "http://www.nvshens.org/gallery/xiaomaise/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 14,
+				"title": " 香肩",
+				"url": "http://www.nvshens.org/gallery/xiangjian/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 15,
+				"title": " 玉足",
+				"url": "http://www.nvshens.org/gallery/yuzu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 16,
+				"title": " 尤物",
+				"url": "http://www.nvshens.org/gallery/youwu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 17,
+				"title": " 美臀",
+				"url": "http://www.nvshens.org/gallery/meitun/{pageStr:{page:1}.html}"
+			}
+		],
+		"disableHProxy": false,
+		"flag": "noRating|preloadGallery",
+		"galleryRule": {
+			"category": {
+				"fun": "html",
+				"regex": ">(\\d+)张.*?浏览了(.*?)次",
+				"replacement": "$1张照片　浏览$2次",
+				"selector": "div#dinfo"
+			},
+			"datetime": {
+				"fun": "html",
+				"regex": "(\\d{4}/\\d{2}/\\d{2})",
+				"selector": "div#dinfo"
+			},
+			"description": {
+				"fun": "html",
+				"selector": "div#ddesc"
+			},
+			"pictureRule": {
+				"item": {
+					"selector": "ul#hgallery img"
+				},
+				"thumbnail": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				}
+			},
+			"tagRule": {
+				"item": {
+					"selector": "ul#utag > li"
+				},
+				"title": {
+					"fun": "html",
+					"selector": "a"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "href",
+					"regex": "(.*)",
+					"replacement": "$1{pageStr:{page:1}.html}",
+					"selector": "a"
+				}
+			}
+		},
+		"galleryUrl": "http://www.nvshens.org/g/{idCode:}/{page:1}.html",
+		"gid": 5,
+		"index": 2,
+		"indexRule": {
+			"cover": {
+				"fun": "attr",
+				"param": "data-original",
+				"selector": "a > img"
+			},
+			"idCode": {
+				"fun": "attr",
+				"param": "href",
+				"regex": "/g/(\\d*)",
+				"selector": "a.galleryli_link,a.igalleryli_link"
+			},
+			"item": {
+				"selector": "ul>li.galleryli,ul>li.igalleryli"
+			},
+			"title": {
+				"fun": "html",
+				"selector": "div.galleryli_title>a,div.igalleryli_title>a"
+			}
+		},
+		"indexUrl": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}",
+		"isGrid": false,
+		"sid": 197,
+		"title": "宅男女神[身材]",
+		"versionCode": 2
+	}

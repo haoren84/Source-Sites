@@ -1,0 +1,222 @@
+{
+		"categories": [
+			{
+				"cid": 1,
+				"title": "美女图片",
+				"url": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 2,
+				"title": " 足球宝贝",
+				"url": "http://www.nvshens.org/gallery/zuqiu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 3,
+				"title": " 肚兜",
+				"url": "http://www.nvshens.org/gallery/dudou/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 4,
+				"title": " 旗袍",
+				"url": "http://www.nvshens.org/gallery/qipao/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 5,
+				"title": " 空姐",
+				"url": "http://www.nvshens.org/gallery/kongjie/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 6,
+				"title": " 丁字裤",
+				"url": "http://www.nvshens.org/gallery/dingziku/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 7,
+				"title": " 和服",
+				"url": "http://www.nvshens.org/gallery/hefu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 8,
+				"title": " 篮球宝贝",
+				"url": "http://www.nvshens.org/gallery/lanqiu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 9,
+				"title": " 拳击宝贝",
+				"url": "http://www.nvshens.org/gallery/quanji/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 10,
+				"title": " 比基尼",
+				"url": "http://www.nvshens.org/gallery/bijini/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 11,
+				"title": " 内衣",
+				"url": "http://www.nvshens.org/gallery/neiyi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 12,
+				"title": " 制服",
+				"url": "http://www.nvshens.org/gallery/zhifu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 13,
+				"title": " 角色扮演",
+				"url": "http://www.nvshens.org/gallery/cos/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 14,
+				"title": " 校服",
+				"url": "http://www.nvshens.org/gallery/xiaofu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 15,
+				"title": " 护士",
+				"url": "http://www.nvshens.org/gallery/hushi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 16,
+				"title": " 湿身",
+				"url": "http://www.nvshens.org/gallery/shishen/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 17,
+				"title": " 黑丝",
+				"url": "http://www.nvshens.org/gallery/heisi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 18,
+				"title": " 女仆",
+				"url": "http://www.nvshens.org/gallery/nvpu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 19,
+				"title": " 眼镜",
+				"url": "http://www.nvshens.org/gallery/yanjing/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 20,
+				"title": " 高跟鞋",
+				"url": "http://www.nvshens.org/gallery/gaogenxie/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 21,
+				"title": " 秘书",
+				"url": "http://www.nvshens.org/gallery/mishu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 22,
+				"title": " 女兵",
+				"url": "http://www.nvshens.org/gallery/nvbing/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 23,
+				"title": " 水手服",
+				"url": "http://www.nvshens.org/gallery/shuishoufu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 24,
+				"title": " 丝袜",
+				"url": "http://www.nvshens.org/gallery/siwa/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 25,
+				"title": " 开背毛衣",
+				"url": "http://www.nvshens.org/gallery/kaibei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 26,
+				"title": " 警花",
+				"url": "http://www.nvshens.org/gallery/jinghua/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 27,
+				"title": " 厨娘",
+				"url": "http://www.nvshens.org/gallery/chuniang/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 28,
+				"title": " 教师",
+				"url": "http://www.nvshens.org/gallery/jiaoshi/{pageStr:{page:1}.html}"
+			}
+		],
+		"disableHProxy": false,
+		"flag": "noRating|preloadGallery",
+		"galleryRule": {
+			"category": {
+				"fun": "html",
+				"regex": ">(\\d+)张.*?浏览了(.*?)次",
+				"replacement": "$1张照片　浏览$2次",
+				"selector": "div#dinfo"
+			},
+			"datetime": {
+				"fun": "html",
+				"regex": "(\\d{4}/\\d{2}/\\d{2})",
+				"selector": "div#dinfo"
+			},
+			"description": {
+				"fun": "html",
+				"selector": "div#ddesc"
+			},
+			"pictureRule": {
+				"item": {
+					"selector": "ul#hgallery img"
+				},
+				"thumbnail": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				}
+			},
+			"tagRule": {
+				"item": {
+					"selector": "ul#utag > li"
+				},
+				"title": {
+					"fun": "html",
+					"selector": "a"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "href",
+					"regex": "(.*)",
+					"replacement": "$1{pageStr:{page:1}.html}",
+					"selector": "a"
+				}
+			}
+		},
+		"galleryUrl": "http://www.nvshens.org/g/{idCode:}/{page:1}.html",
+		"gid": 5,
+		"index": 2,
+		"indexRule": {
+			"cover": {
+				"fun": "attr",
+				"param": "data-original",
+				"selector": "a > img"
+			},
+			"idCode": {
+				"fun": "attr",
+				"param": "href",
+				"regex": "/g/(\\d*)",
+				"selector": "a.galleryli_link,a.igalleryli_link"
+			},
+			"item": {
+				"selector": "ul>li.galleryli,ul>li.igalleryli"
+			},
+			"title": {
+				"fun": "html",
+				"selector": "div.galleryli_title>a,div.igalleryli_title>a"
+			}
+		},
+		"indexUrl": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}",
+		"isGrid": false,
+		"sid": 197,
+		"title": "宅男女神[服饰]",
+		"versionCode": 2
+	}

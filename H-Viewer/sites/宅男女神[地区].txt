@@ -1,0 +1,367 @@
+{
+		"categories": [
+			{
+				"cid": 1,
+				"title": "美女图片",
+				"url": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 2,
+				"title": "美国",
+				"url": "http://www.nvshens.org/gallery/meiguo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 3,
+				"title": "俄罗斯",
+				"url": "http://www.nvshens.org/gallery/eluosi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 4,
+				"title": "乌克兰",
+				"url": "http://www.nvshens.org/gallery/wukelan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 5,
+				"title": "英国",
+				"url": "http://www.nvshens.org/gallery/yingguo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 6,
+				"title": "法国",
+				"url": "http://www.nvshens.org/gallery/faguo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 7,
+				"title": "德国",
+				"url": "http://www.nvshens.org/gallery/deguo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 8,
+				"title": "意大利",
+				"url": "http://www.nvshens.org/gallery/yidali/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 9,
+				"title": "西班牙",
+				"url": "http://www.nvshens.org/gallery/xibanya/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 10,
+				"title": "荷兰",
+				"url": "http://www.nvshens.org/gallery/helan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 11,
+				"title": "捷克",
+				"url": "http://www.nvshens.org/gallery/jieke/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 12,
+				"title": "克罗地亚",
+				"url": "http://www.nvshens.org/gallery/keluodiya/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 13,
+				"title": "丹麦",
+				"url": "http://www.nvshens.org/gallery/danmai/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 14,
+				"title": "土耳其",
+				"url": "http://www.nvshens.org/gallery/tuerqi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 15,
+				"title": "瑞典",
+				"url": "http://www.nvshens.org/gallery/ruidian/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 16,
+				"title": "葡萄牙",
+				"url": "http://www.nvshens.org/gallery/putaoya/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 17,
+				"title": "希腊",
+				"url": "http://www.nvshens.org/gallery/xila/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 18,
+				"title": "亚洲",
+				"url": "http://www.nvshens.org/gallery/yazhou/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 19,
+				"title": "日韩",
+				"url": "http://www.nvshens.org/gallery/rihan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 20,
+				"title": "伊朗",
+				"url": "http://www.nvshens.org/gallery/yilang/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 21,
+				"title": "爱尔兰",
+				"url": "http://www.nvshens.org/gallery/aierlan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 22,
+				"title": "挪威",
+				"url": "http://www.nvshens.org/gallery/nuowei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 23,
+				"title": "巴西",
+				"url": "http://www.nvshens.org/gallery/baxi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 24,
+				"title": "哥伦比亚",
+				"url": "http://www.nvshens.org/gallery/gelunbiya/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 25,
+				"title": "委内瑞拉",
+				"url": "http://www.nvshens.org/gallery/weineiruila/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 26,
+				"title": "新加坡",
+				"url": "http://www.nvshens.org/gallery/xinjiapo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 27,
+				"title": "澳大利亚",
+				"url": "http://www.nvshens.org/gallery/aodaliya/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 28,
+				"title": "加拿大",
+				"url": "http://www.nvshens.org/gallery/jianada/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 29,
+				"title": "墨西哥",
+				"url": "http://www.nvshens.org/gallery/moxige/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 30,
+				"title": "以色列",
+				"url": "http://www.nvshens.org/gallery/yiselie/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 31,
+				"title": "南非",
+				"url": "http://www.nvshens.org/gallery/nanfei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 32,
+				"title": "波兰",
+				"url": "http://www.nvshens.org/gallery/bolan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 33,
+				"title": "塞尔维亚",
+				"url": "http://www.nvshens.org/gallery/saierweiya/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 34,
+				"title": "波多黎各",
+				"url": "http://www.nvshens.org/gallery/boduolige/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 35,
+				"title": "奥地利",
+				"url": "http://www.nvshens.org/gallery/aodili/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 36,
+				"title": "新西兰",
+				"url": "http://www.nvshens.org/gallery/xinxilan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 37,
+				"title": "比利时",
+				"url": "http://www.nvshens.org/gallery/bilishi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 38,
+				"title": "波黑",
+				"url": "http://www.nvshens.org/gallery/bohei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 39,
+				"title": "阿根廷",
+				"url": "http://www.nvshens.org/gallery/agenting/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 40,
+				"title": "智利",
+				"url": "http://www.nvshens.org/gallery/zhili/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 41,
+				"title": "白俄罗斯",
+				"url": "http://www.nvshens.org/gallery/baieluosi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 42,
+				"title": "古巴",
+				"url": "http://www.nvshens.org/gallery/guba/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 43,
+				"title": "汉服",
+				"url": "http://www.nvshens.org/gallery/hanfu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 44,
+				"title": "中国内地",
+				"url": "http://www.nvshens.org/gallery/neidi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 45,
+				"title": "台湾",
+				"url": "http://www.nvshens.org/gallery/taiwan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 46,
+				"title": "香港",
+				"url": "http://www.nvshens.org/gallery/xianggang/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 47,
+				"title": "澳门",
+				"url": "http://www.nvshens.org/gallery/aomen/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 48,
+				"title": "日本",
+				"url": "http://www.nvshens.org/gallery/riben/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 49,
+				"title": "韩国",
+				"url": "http://www.nvshens.org/gallery/hanguo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 50,
+				"title": "马来西亚",
+				"url": "http://www.nvshens.org/gallery/malaixiya/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 51,
+				"title": "越南",
+				"url": "http://www.nvshens.org/gallery/yuenan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 52,
+				"title": "泰国",
+				"url": "http://www.nvshens.org/gallery/taiguo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 53,
+				"title": "菲律宾",
+				"url": "http://www.nvshens.org/gallery/feilvbin/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 54,
+				"title": "混血",
+				"url": "http://www.nvshens.org/gallery/hunxue/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 55,
+				"title": "欧美",
+				"url": "http://www.nvshens.org/gallery/oumei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 56,
+				"title": "印度",
+				"url": "http://www.nvshens.org/gallery/yindu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 57,
+				"title": "非洲",
+				"url": "http://www.nvshens.org/gallery/feizhou/{pageStr:{page:1}.html}"
+			}
+		],
+		"disableHProxy": false,
+		"flag": "noRating|preloadGallery",
+		"galleryRule": {
+			"category": {
+				"fun": "html",
+				"regex": ">(\\d+)张.*?浏览了(.*?)次",
+				"replacement": "$1张照片　浏览$2次",
+				"selector": "div#dinfo"
+			},
+			"datetime": {
+				"fun": "html",
+				"regex": "(\\d{4}/\\d{2}/\\d{2})",
+				"selector": "div#dinfo"
+			},
+			"description": {
+				"fun": "html",
+				"selector": "div#ddesc"
+			},
+			"pictureRule": {
+				"item": {
+					"selector": "ul#hgallery img"
+				},
+				"thumbnail": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				}
+			},
+			"tagRule": {
+				"item": {
+					"selector": "ul#utag > li"
+				},
+				"title": {
+					"fun": "html",
+					"selector": "a"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "href",
+					"regex": "(.*)",
+					"replacement": "$1{pageStr:{page:1}.html}",
+					"selector": "a"
+				}
+			}
+		},
+		"galleryUrl": "http://www.nvshens.org/g/{idCode:}/{page:1}.html",
+		"gid": 5,
+		"index": 2,
+		"indexRule": {
+			"cover": {
+				"fun": "attr",
+				"param": "data-original",
+				"selector": "a > img"
+			},
+			"idCode": {
+				"fun": "attr",
+				"param": "href",
+				"regex": "/g/(\\d*)",
+				"selector": "a.galleryli_link,a.igalleryli_link"
+			},
+			"item": {
+				"selector": "ul>li.galleryli,ul>li.igalleryli"
+			},
+			"title": {
+				"fun": "html",
+				"selector": "div.galleryli_title>a,div.igalleryli_title>a"
+			}
+		},
+		"indexUrl": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}",
+		"isGrid": false,
+		"sid": 197,
+		"title": "宅男女神[地区]",
+		"versionCode": 2
+	}

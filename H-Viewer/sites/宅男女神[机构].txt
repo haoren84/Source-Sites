@@ -1,0 +1,337 @@
+{
+		"categories": [
+			{
+				"cid": 1,
+				"title": "美女图片",
+				"url": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 2,
+				"title": "雅拉伊",
+				"url": "https://www.nvshens.org/gallery/yalayi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 3,
+				"title": "阳光宝贝",
+				"url": "https://www.nvshens.org/gallery/sungirl/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 4,
+				"title": "秀人网[xiuren]",
+				"url": "https://www.nvshens.org/gallery/xiuren/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 5,
+				"title": "美媛馆[xiuren]",
+				"url": "https://www.nvshens.org/gallery/meiyuanguan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 6,
+				"title": "爱蜜社[xiuren]",
+				"url": "https://www.nvshens.org/gallery/imiss/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 7,
+				"title": "魅妍社[xiuren]",
+				"url": "https://www.nvshens.org/gallery/mistar/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 8,
+				"title": "模范学院[xiuren]",
+				"url": "https://www.nvshens.org/gallery/mfstar/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 9,
+				"title": "尤蜜荟[xiuren]",
+				"url": "https://www.nvshens.org/gallery/youmihui/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 10,
+				"title": "蜜桃社[xiuren]",
+				"url": "https://www.nvshens.org/gallery/miitao/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 11,
+				"title": "尤物馆[xiuren]",
+				"url": "https://www.nvshens.org/gallery/youwuguan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 12,
+				"title": "御女郎[xiuren]",
+				"url": "https://www.nvshens.org/gallery/yunvlang/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 13,
+				"title": "嗲囡囡[xiuren]",
+				"url": "https://www.nvshens.org/gallery/feilin/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 14,
+				"title": "瑞丝馆(猫萌榜)[xiuren]",
+				"url": "https://www.nvshens.org/gallery/micat/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 15,
+				"title": "网红馆(糖果画报)[xiuren]",
+				"url": "https://www.nvshens.org/gallery/candy/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 16,
+				"title": "优星馆[xiuren]",
+				"url": "https://www.nvshens.org/gallery/uxing/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 17,
+				"title": "影私荟[xiuren]",
+				"url": "https://www.nvshens.org/gallery/wings/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 18,
+				"title": "语画界[xiuren]",
+				"url": "https://www.nvshens.org/gallery/xiaoyu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 19,
+				"title": "花の颜[xiuren]",
+				"url": "https://www.nvshens.org/gallery/huayan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 20,
+				"title": "星乐园[xiuren]",
+				"url": "https://www.nvshens.org/gallery/leyuan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 21,
+				"title": "顽味生活[xiuren]",
+				"url": "https://www.nvshens.org/gallery/taste/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 22,
+				"title": "花漾[xiuren]",
+				"url": "https://www.nvshens.org/gallery/huayang/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 23,
+				"title": "星颜社[xiuren]",
+				"url": "https://www.nvshens.org/gallery/xingyan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 24,
+				"title": "尤果网",
+				"url": "https://www.nvshens.org/gallery/ugirl/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 25,
+				"title": "尤果圈",
+				"url": "https://www.nvshens.org/gallery/aiyouwu/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 26,
+				"title": "优果网",
+				"url": "https://www.nvshens.org/gallery/youguo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 27,
+				"title": "推女神",
+				"url": "https://www.nvshens.org/gallery/tgod/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 28,
+				"title": "推女郎",
+				"url": "https://www.nvshens.org/gallery/tuigirl/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 29,
+				"title": "波萝社",
+				"url": "https://www.nvshens.org/gallery/bololi/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 30,
+				"title": "激萌文化",
+				"url": "https://www.nvshens.org/gallery/kimoe/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 31,
+				"title": "兔几盟",
+				"url": "https://www.nvshens.org/gallery/tukmo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 32,
+				"title": "青豆客",
+				"url": "https://www.nvshens.org/gallery/qingdouke/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 33,
+				"title": "果团网",
+				"url": "https://www.nvshens.org/gallery/girlt/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 34,
+				"title": "熊川纪信",
+				"url": "https://www.nvshens.org/gallery/xiongchuan/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 35,
+				"title": "薄荷叶",
+				"url": "https://www.nvshens.org/gallery/mintye/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 36,
+				"title": "头条女神",
+				"url": "https://www.nvshens.org/gallery/toutiao/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 37,
+				"title": "飞图网",
+				"url": "https://www.nvshens.org/gallery/ftoow/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 38,
+				"title": "尤美",
+				"url": "https://www.nvshens.org/gallery/youmei/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 39,
+				"title": "蜜团女孩",
+				"url": "https://www.nvshens.org/gallery/mtgirl/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 40,
+				"title": "蜜丝",
+				"url": "https://www.nvshens.org/gallery/missleg/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 41,
+				"title": "轰趴猫",
+				"url": "https://www.nvshens.org/gallery/partycat/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 42,
+				"title": "猎女神",
+				"url": "https://www.nvshens.org/gallery/slady/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 43,
+				"title": "克拉女神",
+				"url": "https://www.nvshens.org/gallery/kela/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 44,
+				"title": "51modo",
+				"url": "https://www.nvshens.org/gallery/51modo/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 45,
+				"title": "RQ-STAR",
+				"url": "https://www.nvshens.org/gallery/rqstar/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 46,
+				"title": "YS-Web",
+				"url": "https://www.nvshens.org/gallery/ysweb/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 47,
+				"title": "DGC",
+				"url": "https://www.nvshens.org/gallery/dgcc/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 48,
+				"title": "Bomb.tv",
+				"url": "https://www.nvshens.org/gallery/bomb/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 49,
+				"title": "@misty",
+				"url": "https://www.nvshens.org/gallery/misty/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 50,
+				"title": "Sabra.net",
+				"url": "https://www.nvshens.org/gallery/sabra/{pageStr:{page:1}.html}"
+			},
+			{
+				"cid": 51,
+				"title": "4K-STAR",
+				"url": "https://www.nvshens.org/gallery/4kstar/{pageStr:{page:1}.html}"
+			}
+		],
+		"disableHProxy": false,
+		"flag": "noRating|preloadGallery",
+		"galleryRule": {
+			"category": {
+				"fun": "html",
+				"regex": ">(\\d+)张.*?浏览了(.*?)次",
+				"replacement": "$1张照片　浏览$2次",
+				"selector": "div#dinfo"
+			},
+			"datetime": {
+				"fun": "html",
+				"regex": "(\\d{4}/\\d{2}/\\d{2})",
+				"selector": "div#dinfo"
+			},
+			"description": {
+				"fun": "html",
+				"selector": "div#ddesc"
+			},
+			"pictureRule": {
+				"item": {
+					"selector": "ul#hgallery img"
+				},
+				"thumbnail": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "src",
+					"selector": "this"
+				}
+			},
+			"tagRule": {
+				"item": {
+					"selector": "ul#utag > li"
+				},
+				"title": {
+					"fun": "html",
+					"selector": "a"
+				},
+				"url": {
+					"fun": "attr",
+					"param": "href",
+					"regex": "(.*)",
+					"replacement": "$1{pageStr:{page:1}.html}",
+					"selector": "a"
+				}
+			}
+		},
+		"galleryUrl": "http://www.nvshens.org/g/{idCode:}/{page:1}.html",
+		"gid": 5,
+		"index": 2,
+		"indexRule": {
+			"cover": {
+				"fun": "attr",
+				"param": "data-original",
+				"selector": "a > img"
+			},
+			"idCode": {
+				"fun": "attr",
+				"param": "href",
+				"regex": "/g/(\\d*)",
+				"selector": "a.galleryli_link,a.igalleryli_link"
+			},
+			"item": {
+				"selector": "ul>li.galleryli,ul>li.igalleryli"
+			},
+			"title": {
+				"fun": "html",
+				"selector": "div.galleryli_title>a,div.igalleryli_title>a"
+			}
+		},
+		"indexUrl": "http://www.nvshens.org/gallery/{pageStr:{page:1}.html}",
+		"isGrid": false,
+		"sid": 196,
+		"title": "宅男女神[机构]",
+		"versionCode": 2
+	}
