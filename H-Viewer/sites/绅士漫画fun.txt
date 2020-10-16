@@ -71,7 +71,7 @@
 				}
 			}
 		},
-		"flag": "noRating|preloadGallery",
+		"flag": "singlePageBigPicture|noRating|preloadGallery",
 		"galleryRule": {
 			"description": {
 				"fun": "html",
