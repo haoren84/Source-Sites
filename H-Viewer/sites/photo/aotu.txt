@@ -1,0 +1,82 @@
+{
+  "categories": [
+    {
+      "cid": 1,
+      "title": "首页",
+      "url": "https://www.tuaom.cc/{pageStr:page_{page:1}.html}"
+    },
+    {
+      "cid": 2,
+      "title": "无圣光",
+      "url": "https://www.tuaom.cc/category-1{pageStr:_{page:1}}.html"
+    },
+    {
+      "cid": 3,
+      "title": "凸凹图",
+      "url": "https://www.tuaom.cc/category-2{pageStr:_{page:1}}.html"
+    },
+    {
+      "cid": 4,
+      "title": "艺术",
+      "url": "https://www.tuaom.cc/category-3{pageStr:_{page:1}}.html"
+    },
+    {
+      "cid": 5,
+      "title": "欧美",
+      "url": "https://www.tuaom.cc/category-6{pageStr:_{page:1}}.html"
+    },
+    {
+      "cid": 6,
+      "title": "精品套图",
+      "url": "https://www.tuaom.cc/category-5{pageStr:_{page:1}}.html"
+    }
+  ],
+  "disableHProxy": false,
+  "flag": "noTag|noRating|waterfallAsList|waterfallAsGrid|preloadGallery",
+  "galleryRule": {
+    "pictureRule": {
+      "item": {
+        "selector": ".entry img"
+      },
+      "thumbnail": {
+        "fun": "attr",
+        "param": "src",
+        "selector": "this"
+      },
+      "url": {
+        "fun": "attr",
+        "param": "src",
+        "selector": "this"
+      }
+    }
+  },
+  "galleryUrl": "https://www.tuaom.cc/post/{idCode:}.html?page={page:1}",
+  "gid": 2,
+  "index": 55,
+  "indexRule": {
+    "cover": {
+      "fun": "attr",
+      "param": "src",
+      "selector": "img"
+    },
+    "idCode": {
+      "fun": "attr",
+      "param": "href",
+      "regex": ".*?/post/(\\d*?).html",
+      "selector": "a"
+    },
+    "item": {
+      "selector": ".post-box"
+    },
+    "title": {
+      "fun": "text",
+      "selector": "h2 a"
+    }
+  },
+  "indexUrl": "https://www.tuaom.cc",
+  "isGrid": true,
+  "searchUrl": "https://www.tuaom.cc/search.php?q={keyword:}&{pageStr:page={page:1}}",
+  "sid": 104,
+  "title": "凸凹吧 by木子",
+  "versionCode": 0
+}

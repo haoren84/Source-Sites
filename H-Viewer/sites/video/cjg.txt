@@ -1,0 +1,82 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "自拍",
+            "url": "https://xn--wbs34e882d4sn.xyz/list/10{pageStr:-{page:1}}.html"
+        },
+        {
+            "cid": 2,
+            "title": "中文",
+            "url": "https://xn--wbs34e882d4sn.xyz/list/20{pageStr:-{page:1}}.html"
+        },
+        {
+            "cid": 3,
+            "title": "欧美",
+            "url": "https://xn--wbs34e882d4sn.xyz/list/30{pageStr:-{page:1}}.html"
+        },
+        {
+            "cid": 4,
+            "title": "网红",
+            "url": "https://xn--wbs34e882d4sn.xyz/list/40{pageStr:-{page:1}}.html"
+        },
+        {
+            "cid": 5,
+            "title": "动漫",
+            "url": "https://xn--wbs34e882d4sn.xyz/list/50{pageStr:-{page:1}}.html"
+        },
+        {
+            "cid": 6,
+            "title": "无圣光",
+            "url": "https://xn--wbs34e882d4sn.xyz/list/70{pageStr:-{page:1}}.html"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+        "videoRule": {
+            "item": {
+                "selector": "video"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "poster",
+                "selector": "this"
+            },
+            "content": {
+                  "fun": "attr",
+                  "param": "src",
+                  "regex": "(.*)",
+                  "selector": "source"
+            }
+        }
+    },
+    "galleryUrl": "https://xn--wbs34e882d4sn.xyz{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "style",
+            "regex": "(https.+\\.jpg)",
+            "selector": ".zoom-container"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "selector": ".vid-name a"
+        },
+        "item": {
+            "selector": "div.item"
+        },
+        "title": {
+            "fun": "text",
+            "selector": ".vid-name a"
+        }
+    },
+    "indexUrl": "https://xn--wbs34e882d4sn.xyz/list/10{pageStr:-{page:1}}.html",
+    "isGrid": true,
+    "sid": 204,
+    "title": "藏j阁 by木子",
+    "versionCode": 0
+}

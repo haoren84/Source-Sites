@@ -1,0 +1,207 @@
+{
+    "categories": [
+      {
+        "cid": 1,
+        "title": "自拍视频",
+        "url": "https://www.4hu53p.com/video/zipai/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 2,
+        "title": "淫妻作乐",
+        "url": "https://www.4hu53p.com/video/fuqi/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 3,
+        "title": "开放青年",
+        "url": "https://www.4hu53p.com/video/kaifang/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 4,
+        "title": "精品分享",
+        "url": "https://www.4hu53p.com/video/jingpin/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 5,
+        "title": "台湾辣妹",
+        "url": "https://www.4hu53p.com/video/twmn/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 6,
+        "title": "韩国主播",
+        "url": "https://www.4hu53p.com/video/krzb/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 7,
+        "title": "动漫卡通",
+        "url": "https://www.4hu53p.com/video/dongman/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 8,
+        "title": "经典三级",
+        "url": "https://www.4hu53p.com/video/sanji/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 9,
+        "title": "女性向",
+        "url": "https://www.4hu53p.com/av/nxx/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 10,
+        "title": "波多",
+        "url": "https://www.4hu53p.com/av/bdyjy/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 11,
+        "title": "深田永美",
+        "url": "https://www.4hu53p.com/av/stym/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 12,
+        "title": "桥本有菜",
+        "url": "https://www.4hu53p.com/av/qbyc/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 13,
+        "title": "苍井空",
+        "url": "https://www.4hu53p.com/av/cjk/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 14,
+        "title": "三上悠亚",
+        "url": "https://www.4hu53p.com/av/ssyy/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 15,
+        "title": "天海翼",
+        "url": "https://www.4hu53p.com/av/thy/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 16,
+        "title": "吉泽明步",
+        "url": "https://www.4hu53p.com/av/jzmb/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 17,
+        "title": "无码中字",
+        "url": "https://www.4hu53p.com/movie/wuma/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 18,
+        "title": "SM",
+        "url": "https://www.4hu53p.com/movie/sm/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 19,
+        "title": "高清无码",
+        "url": "https://www.4hu53p.com/movie/gaoqing/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 20,
+        "title": "熟女人妻",
+        "url": "https://www.4hu53p.com/movie/shunv/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 21,
+        "title": "美颜巨乳",
+        "url": "https://www.4hu53p.com/movie/meiyan/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 22,
+        "title": "丝袜制服",
+        "url": "https://www.4hu53p.com/movie/siwa/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 23,
+        "title": "中文有码",
+        "url": "https://www.4hu53p.com/movie/youma/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 24,
+        "title": "欧美系列",
+        "url": "https://www.4hu53p.com/movie/oumei/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 25,
+        "title": "自拍偷拍",
+        "url": "https://www.4hu53p.com/pic/toupai/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 26,
+        "title": "美腿丝袜",
+        "url": "https://www.4hu53p.com/pic/meitui/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 27,
+        "title": "欧美色图",
+        "url": "https://www.4hu53p.com/pic/oumei/{pageStr:index_{page:1}.html}"
+      },
+      {
+        "cid": 28,
+        "title": "卡通图片",
+        "url": "https://www.4hu53p.com/pic/katong/{pageStr:index_{page:1}.html}"
+      }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+      "videoRule": {
+        "item": {
+          "selector": "video"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "poster",
+          "selector": "this"
+        },
+        "content": {
+          "fun": "attr",
+          "param": "src",
+          "regex": "(.*)",
+          "selector": "this"
+        }
+      },
+        "pictureRule": {
+        "item": {
+          "selector": ".pic img"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        },
+        "url": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        }
+      }
+    },
+    "galleryUrl": "https://www.4hu53p.com{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "data-original",
+        "selector": "img"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "a"
+      },
+      "item": {
+        "selector": ".row dl"
+      },
+      "title": {
+        "fun": "attr",
+          "param": "title",
+        "selector": "a"
+      }
+    },
+    "indexUrl": "https://www.4hu53p.com/video/zipai/{pageStr:index_{page:1}.html}",
+    "isGrid": true,
+    "sid": 203,
+    "title": "四虎 by木子",
+    "versionCode": 0
+  }

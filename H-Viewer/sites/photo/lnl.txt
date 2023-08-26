@@ -1,0 +1,49 @@
+{
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+      "pictureRule": {
+        "item": {
+          "selector": ".entry img"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        },
+        "url": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        }
+      }
+    },
+    "galleryUrl": "{idCode:}{pageStr:?page={page:1}}",
+    "gid": 7,
+    "index": 0,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "src",
+        "selector": "a img"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "a"
+      },
+      "item": {
+        "selector": "article.post-box .thumbmm"
+      },
+      "title": {
+        "fun": "attr",
+        "param": "title",
+        "selector": "a"
+      }
+    },
+    "indexUrl": "https://www.lunu.cc{pageStr:/page_{page:1}.html}",
+    "isGrid": false,
+    "sid": 106,
+    "title": "撸女郎 by木子",
+    "versionCode": 0
+  }

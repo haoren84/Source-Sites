@@ -1,0 +1,264 @@
+{
+    "categories": [
+      {
+        "cid": 1,
+        "title": "首页",
+        "url": "https://javdove2.fun/videos?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 2,
+        "title": "无圣光",
+        "url": "https://javdove2.fun/videos/uncensored?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 3,
+        "title": "熟nv",
+        "url": "https://javdove2.fun/videos/mature-milf?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 4,
+        "title": "巨ru",
+        "url": "https://javdove2.fun/videos/big-boobs?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 5,
+        "title": "素人",
+        "url": "https://javdove2.fun/videos/amateur?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 6,
+        "title": "制服",
+        "url": "https://javdove2.fun/videos/work?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 7,
+        "title": "按摩",
+        "url": "https://javdove2.fun/videos/massage?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 8,
+        "title": "近亲",
+        "url": "https://javdove2.fun/videos/family?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 9,
+        "title": "BDSM",
+        "url": "https://javdove2.fun/videos/bdsm?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 10,
+        "title": "NTR",
+        "url": "https://javdove2.fun/videos/ntr?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 11,
+        "title": "企划剧情",
+        "url": "https://javdove2.fun/videos/drama?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 12,
+        "title": "美tun",
+        "url": "https://javdove2.fun/videos/big-ass?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 13,
+        "title": "chao吹",
+        "url": "https://javdove2.fun/videos/squirting?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 14,
+        "title": "少女",
+        "url": "https://javdove2.fun/videos/teen?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 15,
+        "title": "nv同",
+        "url": "https://javdove2.fun/videos/lesbian?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 16,
+        "title": "FC2",
+        "url": "https://javdove2.fun/videos/fc2?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 17,
+        "title": "动画",
+        "url": "https://javdove2.fun/videos/hentai?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 18,
+        "title": "精选",
+        "url": "https://javdove2.fun/videos/japanavgirls?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 19,
+        "title": "自拍",
+        "url": "https://javdove2.fun/videos/selfcam?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 20,
+        "title": "番号鸽",
+        "url": "https://javdove2.fun/videos/javdove?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 21,
+        "title": "角色扮演",
+        "url": "https://javdove2.fun/videos/cosplay?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 22,
+        "title": "多人",
+        "url": "https://javdove2.fun/videos/group-sex-3p?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 23,
+        "title": "强bao",
+        "url": "https://javdove2.fun/videos/rough?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 24,
+        "title": "骑乘",
+        "url": "https://javdove2.fun/videos/cowgirl-riding?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 25,
+        "title": "中文",
+        "url": "https://javdove2.fun/videos/chinese?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 26,
+        "title": "ol",
+        "url": "https://javdove2.fun/videos/ol-officelady?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 27,
+        "title": "丰满",
+        "url": "https://javdove2.fun/videos/bbw-chubby?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 28,
+        "title": "中chu",
+        "url": "https://javdove2.fun/videos/creampie?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 29,
+        "title": "少女",
+        "url": "https://javdove2.fun/videos/tiny-small?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 30,
+        "title": "偷拍",
+        "url": "https://javdove2.fun/videos/stealthie?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 31,
+        "title": "自wei",
+        "url": "https://javdove2.fun/videos/masturbation?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 32,
+        "title": "咬",
+        "url": "https://javdove2.fun/videos/blowjob?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 33,
+        "title": "颜s",
+        "url": "https://javdove2.fun/videos/cumshot?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 34,
+        "title": "gang交",
+        "url": "https://javdove2.fun/videos/anal?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 35,
+        "title": "欧美",
+        "url": "https://javdove2.fun/videos/western?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 36,
+        "title": "网友推荐",
+        "url": "https://javdove2.fun/videos/recommend?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 37,
+        "title": "asmr",
+        "url": "https://javdove2.fun/videos/asmr?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 38,
+        "title": "写真",
+        "url": "https://javdove2.fun/videos/portfolio?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 39,
+        "title": "韩国",
+        "url": "https://javdove2.fun/videos/korean?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 39,
+        "title": "野外露chu",
+        "url": "https://javdove2.fun/videos/outdoor?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 40,
+        "title": "毁童年",
+        "url": "https://javdove2.fun/videos/superman?o=mv{pageStr:&page={page:1}}"
+      },
+      {
+        "cid": 41,
+        "title": "GIF出处",
+        "url": "https://javdove2.fun/videos/gif?o=mv{pageStr:&page={page:1}}"
+      }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+      "videoRule": {
+        "item": {
+          "selector": "video#vplayer_html5_api"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "poster",
+          "selector": "this"
+        },
+        "content": {
+          "fun": "attr",
+          "param": "src",
+          "regex": "(.*)",
+          "selector": "source"
+        }
+      }
+    },
+    "galleryUrl": "https://javdove2.fun{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "src",
+        "selector": "img"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "a"
+      },
+      "item": {
+        "selector": ".col-video"
+      },
+      "title": {
+        "fun": "attr",
+        "param": "title",
+        "selector": "img"
+      }
+    },
+    "indexUrl": "https://javdove2.fun/videos{pageStr:?page={page:1}}",
+    "isGrid": true,
+    "searchUrl": "https://javdove2.fun/search/videos?search_query={keyword:}&o=mv{pageStr:&page={page:1}}",
+    "loginUrl": "https://javdove2.fun/videos?o=mv#login-sign",
+    "sid": 207,
+    "title": "番号鸽 by木子",
+    "versionCode": 0
+  }

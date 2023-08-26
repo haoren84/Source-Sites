@@ -1,0 +1,49 @@
+{
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+      "pictureRule": {
+        "item": {
+          "selector": ".thumb img"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        },
+        "url": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        }
+      }
+    },
+    "galleryUrl": "https://www.qipamaijia.com{idCode:}",
+    "gid": 7,
+    "index": 0,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "src",
+        "selector": "a img"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "a"
+      },
+      "item": {
+        "selector": ".block>.thumb"
+      },
+      "title": {
+        "fun": "attr",
+        "param": "title",
+        "selector": "a"
+      }
+    },
+    "indexUrl": "https://www.qipamaijia.com/fuli/1{page:2}",
+    "isGrid": false,
+    "sid": 105,
+    "title": "买家秀 by木子",
+    "versionCode": 0
+  }

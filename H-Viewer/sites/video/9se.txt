@@ -1,0 +1,111 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "本月最热",
+            "url": "https://jiuse608.com/video/category/top-list{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 2,
+            "title": "上月最热",
+            "url": "https://jiuse608.com/video/category/top-last{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 3,
+            "title": "收藏最多",
+            "url": "https://jiuse608.com/video/category/most-favorite{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 4,
+            "title": "本月收藏",
+            "url": "https://jiuse608.com/video/category/top-favorite{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 5,
+            "title": "本月讨论",
+            "url": "https://jiuse608.com/video/category/top-discuss{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 6,
+            "title": "20分钟",
+            "url": "https://jiuse608.com/video/category/longer-list{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 7,
+            "title": "10分钟",
+            "url": "https://jiuse608.com/video/category/long-list{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 8,
+            "title": "91原创",
+            "url": "https://jiuse608.com/video/category/ori{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 9,
+            "title": "当前最热",
+            "url": "https://jiuse608.com/video/category/hot-list{pageStr:/{page:1}}"
+        },
+        {
+            "cid": 10,
+            "title": "最近加精",
+            "url": "https://jiuse608.com/video/category/recent-favorite{pageStr:/{page:1}}"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+        "videoRule": {
+            "item": {
+                "selector": "video"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "data-poster",
+                "selector": "this"
+            },
+            "content": {
+                "fun": "attr",
+                "param": "data-src",
+                "regex": "(.*)",
+                "selector": "this"
+            }
+        }
+    },
+    "galleryUrl": "https://jiuse608.com{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "style",
+            "regex": "(https.+\\.jpg)",
+            "selector": "a.display div.img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "selector": "a.display"
+        },
+        "item": {
+            "selector": ".col-60 .video-elem"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "a.display div.img"
+        },
+        "uploader": {
+            "fun": "html",
+            "selector": "a.text-dark"
+        },
+        "datetime": {
+            "fun": "text",
+            "selector": ".text-muted:nth-child(2)"
+        }
+    },
+    "indexUrl": "https://jiuse608.com/video/category/top-list{pageStr:/{page:1}}",
+    "isGrid": true,
+    "sid": 201,
+    "title": "9色 by木子",
+    "versionCode": 0
+}

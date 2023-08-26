@@ -1,0 +1,73 @@
+{
+    "sid": 413,
+    "title": "网红精选.com",
+    "index": 0,
+    "indexUrl": "https://xn--wcsw84dcxi8ta.com/{pageStr:index_{page:1}.html}",
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "regex": "(.*)",
+            "replacement": "https://xn--wcsw84dcxi8ta.com/$1",
+            "selector": "img"
+        },
+        "datetime": {
+            "fun": "text",
+            "selector": "div.up"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(\\d+)",
+            "replacement": "list_$1",
+            "selector": "a"
+        },
+        "item": {
+            "selector": "div.index-page li"
+        },
+        "tags": {
+            "fun": "text",
+            "selector": "div.p"
+        },
+        "title": {
+            "fun": "text",
+            "selector": "p.info"
+        }
+    },
+    "gid": 5,
+    "galleryUrl": "https://xn--wcsw84dcxi8ta.com/{idCode:}_{page:1}.html",
+    "galleryRule": {
+        "description": {
+            "fun": "text",
+            "selector": "div.listnv span"
+        },
+        "pictureRule": {
+            "item": {
+                "selector": "div.index-page li"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "src",
+                "regex": "(.*)",
+                "replacement": "https://xn--wcsw84dcxi8ta.com/$1",
+                "selector": "a.example-image-link img"
+            },
+            "url": {
+                "fun": "attr",
+                "param": "href",
+                "regex": "(.*)",
+                "replacement": "https://xn--wcsw84dcxi8ta.com/$1",
+                "selector": "a.example-image-link"
+            }
+        },
+        "title": {
+            "fun": "text",
+            "regex": "[A-Za-z0-9._]{5,}",
+            "selector": "div.listnv"
+        }
+    },
+    "isGrid": false,
+    "disableHProxy": false,
+    "flag": "noRating",
+    "versionCode": 1
+}

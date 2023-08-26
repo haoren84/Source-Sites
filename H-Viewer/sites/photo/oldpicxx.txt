@@ -1,0 +1,49 @@
+{
+  "disableHProxy": false,
+  "flag": "noRating|waterfallAsGrid|waterfallAsList",
+  "galleryRule": {
+    "pictureRule": {
+      "item": {
+        "selector": "div.full figure"
+      },
+      "thumbnail": {
+        "fun": "attr",
+        "param": "data-src",
+        "selector": "img"
+      },
+      "url": {
+        "fun": "attr",
+        "param": "data-src",
+        "selector": "img"
+      }
+    }
+  },
+  "galleryUrl": "{idCode:}",
+  "gid": 7,
+  "cookie": "",
+  "index": 37,
+  "indexRule": {
+    "cover": {
+      "fun": "attr",
+      "param": "src",
+      "selector": "img"
+    },
+    "idCode": {
+      "fun": "attr",
+      "param": "href",
+      "selector": "a"
+    },
+    "item": {
+      "selector": "ul#masonry li  "
+    },
+    "title": {
+      "fun": "text",
+      "selector": "time"
+    }
+  },
+  "indexUrl": "http://kkoo.icu{pageStr:/page/{page:1}/}",
+  "isGrid": true,
+  "sid": 109,
+  "title": "Nsfwpicx旧 by木子",
+  "versionCode": 0
+}

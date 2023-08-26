@@ -1,0 +1,132 @@
+{
+    "categories": [
+      {
+        "cid": 1,
+        "title": "首页",
+        "url": "https://自拍乐园.xyz/list/11{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 2,
+        "title": "原创",
+        "url": "https://自拍乐园.xyz/list/13{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 3,
+        "title": "漂亮身材",
+        "url": "https://自拍乐园.xyz/list/14{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 4,
+        "title": "国产",
+        "url": "https://自拍乐园.xyz/list/15{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 5,
+        "title": "bu兵",
+        "url": "https://自拍乐园.xyz/list/21{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 6,
+        "title": "强jian",
+        "url": "https://自拍乐园.xyz/list/22{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 7,
+        "title": "中文巨ru",
+        "url": "https://自拍乐园.xyz/list/23{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 8,
+        "title": "中文luan伦",
+        "url": "https://自拍乐园.xyz/list/24{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 9,
+        "title": "中文制服",
+        "url": "https://自拍乐园.xyz/list/25{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 10,
+        "title": "中文人qi",
+        "url": "https://自拍乐园.xyz/list/26{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 11,
+        "title": "中文tiao教",
+        "url": "https://自拍乐园.xyz/list/27{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 12,
+        "title": "中文chu轨",
+        "url": "https://自拍乐园.xyz/list/28{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 13,
+        "title": "金发",
+        "url": "https://自拍乐园.xyz/list/31{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 14,
+        "title": "动漫3D",
+        "url": "https://自拍乐园.xyz/list/50{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 15,
+        "title": "亚洲bu兵",
+        "url": "https://自拍乐园.xyz/list/70{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 16,
+        "title": "三级",
+        "url": "https://自拍乐园.xyz/list/101{pageStr:-{page:1}}.html"
+      }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+      "videoRule": {
+        "item": {
+          "selector": "video"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "poster",
+          "selector": "this"
+        },
+        "content": {
+          "fun": "attr",
+          "param": "src",
+          "regex": "(.*)",
+          "selector": "source"
+        }
+      }
+    },
+    "galleryUrl": "https://自拍乐园.xyz{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "style",
+        "regex": "(https.+\\.jpg)",
+        "selector": ".videoImg"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "a"
+      },
+      "item": {
+        "selector": "div.col-md-3"
+      },
+      "title": {
+        "fun": "text",
+        "selector": "a.title"
+      }
+    },
+    "indexUrl": "https://自拍乐园.xyz/list/11{pageStr:-{page:1}}.html",
+    "isGrid": true,
+    "sid": 202,
+    "title": "自拍乐园 by木子",
+    "versionCode": 0
+  }

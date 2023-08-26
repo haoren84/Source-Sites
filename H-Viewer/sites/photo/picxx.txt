@@ -1,0 +1,48 @@
+{
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+        "pictureRule": {
+            "item": {
+                "selector": "div.entry-content figure"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "img"
+            },
+            "url": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "img"
+            }
+        }
+    },
+    "galleryUrl": "{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "selector": "img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "selector": ".entry-date a"
+        },
+        "item": {
+            "selector": "div.row article"
+        },
+        "title": {
+            "fun": "text",
+            "selector": ".entry-categories a"
+        }
+    },
+    "indexUrl": "https://picxx.icu{pageStr:/page/{page:1}}",
+    "isGrid": true,
+    "sid": 101,
+    "title": "picxx by木子",
+    "versionCode": 0
+}

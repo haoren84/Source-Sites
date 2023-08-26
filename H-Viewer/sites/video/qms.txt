@@ -1,0 +1,137 @@
+{
+    "categories": [
+      {
+        "cid": 1,
+        "title": "国产",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/11{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 2,
+        "title": "偷拍",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/13{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 3,
+        "title": "漂亮身材",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/14{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 4,
+        "title": "国产",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/15{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 5,
+        "title": "中文bu兵",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/21{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 6,
+        "title": "中文制服",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/25{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 7,
+        "title": "金发洋妹",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/31{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 8,
+        "title": "国产tiao教",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/596{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 9,
+        "title": "韩国主播",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/41{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 10,
+        "title": "主播大秀",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/42{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 11,
+        "title": "动漫3D",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/50{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 12,
+        "title": "中文强jian",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/22{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 13,
+        "title": "男同女同",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/60{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 14,
+        "title": "亚洲无码",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/70{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 15,
+        "title": "国产三级",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/101{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 16,
+        "title": "韩国伦理",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/585{pageStr:-{page:1}}.html"
+      },
+      {
+        "cid": 17,
+        "title": "欧美激情",
+        "url": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/612{pageStr:-{page:1}}.html"
+      }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+      "videoRule": {
+        "item": {
+          "selector": "video"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "poster",
+          "selector": "this"
+        },
+        "content": {
+          "fun": "attr",
+          "param": "src",
+          "regex": "(.*)",
+          "selector": "source"
+        }
+      }
+    },
+    "galleryUrl": "https://xn--4kqy7ke4hyv5a.xyz{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "style",
+        "regex": "(https.+\\.jpg)",
+        "selector": "div.vodmod>a"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "div.vodmod>a"
+      },
+      "item": {
+        "selector": ".col-md-4"
+      },
+      "title": {
+        "fun": "text",
+        "selector": "h3>a"
+      }
+    },
+    "indexUrl": "https://xn--4kqy7ke4hyv5a.xyz/qmslist/11{pageStr:-{page:1}}.html",
+    "isGrid": true,
+    "sid": 206,
+    "title": "秋名山车库 by木子",
+    "versionCode": 0
+  }

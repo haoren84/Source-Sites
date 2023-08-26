@@ -1,0 +1,62 @@
+{
+    "categories": [
+      {
+        "cid": 1,
+        "title": "首页",
+        "url": "https://nudebird.biz/{pageStr:page/{page:1}}"
+      },
+      {
+        "cid": 2,
+        "title": "hotgirl",
+        "url": "https://hotgirl.biz/{pageStr:page/{page:1}}"
+      }
+    ],
+    "disableHProxy": false,
+    "flag": "noTag|noRating|waterfallAsList|waterfallAsGrid|preloadGallery",
+    "galleryRule": {
+      "pictureRule": {
+        "item": {
+          "selector": ".thecontent a"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "href",
+          "selector": "a"
+        },
+        "url": {
+          "fun": "attr",
+          "param": "href",
+          "selector": "a"
+        }
+      }
+    },
+    "galleryUrl": "{idCode:}",
+    "gid": 7,
+    "index": 55,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "data-lazy-src",
+        "selector": "img"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "a"
+      },
+      "item": {
+        "selector": ".latestPost"
+      },
+      "title": {
+        "fun": "attr",
+         "param": "title",
+        "selector": "a"
+      }
+    },
+    "indexUrl": "https://nudebird.biz/{pageStr:page/{page:1}}",
+    "isGrid": true,
+    "searchUrl": "https://nudebird.biz/?s={keyword:}",
+    "sid": 107,
+    "title": "nudebird by木子",
+    "versionCode": 0
+  }

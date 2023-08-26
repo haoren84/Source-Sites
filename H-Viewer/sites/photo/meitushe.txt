@@ -1,0 +1,48 @@
+{
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+      "pictureRule": {
+        "item": {
+          "selector": ".fed-arti-content img"
+        },
+        "thumbnail": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        },
+        "url": {
+          "fun": "attr",
+          "param": "src",
+          "selector": "this"
+        }
+      }
+    },
+    "galleryUrl": "http://xxsetu.com{idCode:}",
+    "gid": 7,
+    "index": 0,
+    "indexRule": {
+      "cover": {
+        "fun": "attr",
+        "param": "data-original",
+        "selector": "a.fed-list-pics"
+      },
+      "idCode": {
+        "fun": "attr",
+        "param": "href",
+        "selector": "a.fed-list-pics"
+      },
+      "item": {
+        "selector": ".fed-list-info li"
+      },
+      "title": {
+        "fun": "text",
+        "selector": "a.fed-list-title"
+      }
+    },
+    "indexUrl": "http://xxsetu.com/meitu/66{pageStr:-{page:1}}.html",
+    "isGrid": false,
+    "sid": 102,
+    "title": "魅图社 by木子",
+    "versionCode": 0
+  }

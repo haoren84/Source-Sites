@@ -361,8 +361,8 @@
                 "lastUpdate": "2020-03-04 04:28:00",
                 "r18": true
             },
-			{
-				"sid": 312,
+            {
+                "sid": 312,
                 "title": "绅士漫画fun",
                 "author": "Haoren84",
                 "icon": "https://gitee.com/as1234/Source-Sites/raw/main/H-Viewer/icons/wnacg.png",
@@ -371,7 +371,7 @@
                 "versionCode": 2,
                 "lastUpdate": "2020-10-14 11:20:00",
                 "r18": true
-			}
+            }
         ]
     },
     {
@@ -457,7 +457,7 @@
                 "lastUpdate": "2016-10-16 05:10:26",
                 "r18": false
             },
-			{
+            {
                 "sid": 408,
                 "title": "宅男女神[机构]",
                 "author": "Haoren84",
@@ -468,7 +468,7 @@
                 "lastUpdate": "2020-10-14 11:20:00",
                 "r18": false
             },
-			{
+            {
                 "sid": 409,
                 "title": "宅男女神[地区]",
                 "author": "Haoren84",
@@ -479,7 +479,7 @@
                 "lastUpdate": "2020-10-14 11:20:00",
                 "r18": false
             },
-			{
+            {
                 "sid": 410,
                 "title": "宅男女神[风格]",
                 "author": "Haoren84",
@@ -490,7 +490,7 @@
                 "lastUpdate": "2020-10-14 11:20:00",
                 "r18": false
             },
-			{
+            {
                 "sid": 411,
                 "title": "宅男女神[身材]",
                 "author": "Haoren84",
@@ -501,7 +501,7 @@
                 "lastUpdate": "2020-10-14 11:20:00",
                 "r18": false
             },
-			{
+            {
                 "sid": 412,
                 "title": "宅男女神[服饰]",
                 "author": "Haoren84",
@@ -510,6 +510,17 @@
                 "json": "https://gitee.com/as1234/Source-Sites/raw/main/H-Viewer/sites/宅男女神[服饰].txt",
                 "versionCode": 2,
                 "lastUpdate": "2020-10-14 11:20:00",
+                "r18": false
+            },
+            {
+                "sid": 413,
+                "title": "网红精选",
+                "author": "Phantom",
+                "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/Rosi.png",
+                "description": "Ins",
+                "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/网红精选.txt",
+                "versionCode": "1",
+                "lastUpdate": "2022-1-3 8:00:00",
                 "r18": false
             }
         ]
@@ -801,5 +812,183 @@
                 "r18": true
             }
         ]
+    },
+    {
+      "cid": 7,
+      "title": "图站",
+      "english": "picture sites",
+      "r18": false,
+      "sites": [
+        {
+          "sid": 701,
+          "title": "picxx",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/picxx.png",
+          "description": "收录图片较多且杂，但质量都不错，荤",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/picxx.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.9",
+          "r18": false
+        },{
+          "sid": 702,
+          "title": "魅图社",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/meitushe.png",
+          "description": "cao榴的图，荤",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/meitushe.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 703,
+          "title": "绝对领域",
+          "author": "未知",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/jdly.png",
+          "description": "绝对领域,素",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/jdly.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 704,
+          "title": "凹凸吧",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/aotu.png",
+          "description": "各种套图,有荤有素",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/aotu.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 705,
+          "title": "买家秀",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/mjx.png",
+          "description": "各种买家秀,贵在真实,素",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/mjx.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 706,
+          "title": "lu女郎",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/lnl.png",
+          "description": "各种福利姬女菩萨,荤",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/lnl.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 707,
+          "title": "nudebird",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/nudebird.png",
+          "description": "需要番,各种高质量图,经常更新,荤",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/nudebird.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 708,
+          "title": "美女套图",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/mntt.png",
+          "description": "秀人ROSI等专业套图机构,素",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/mntt.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.11",
+          "r18": false
+        },{
+          "sid": 709,
+          "title": "piccxx旧站",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/oldpicxx.png",
+          "description": "虽然不更新了,但图片质量高,荤",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/photo/oldpicxx.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.27",
+          "r18": false
+        }
+      ]
+    },
+    {
+      "cid": 8,
+      "title": "视频站",
+      "english": "video sites",
+      "r18": false,
+      "sites": [
+        {
+          "sid": 801,
+          "title": "九se",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/9se.png",
+          "description": "9一的视频",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/video/9se.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.9",
+          "r18": false
+        },{
+          "sid": 802,
+          "title": "自拍乐园",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/zply.png",
+          "description": "自拍偷拍",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/video/zply.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 803,
+          "title": "四虎",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/4hu.png",
+          "description": "各种视频,种类很多",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/video/4hu.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 804,
+          "title": "藏ji阁",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/cjg.png",
+          "description": "国产日本欧美,里番",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/video/cjg.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 805,
+          "title": "Erobible",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/erobible.png",
+          "description": "大多是FC2的视频",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/video/erobible.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 806,
+          "title": "秋名山车库",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/qms.png",
+          "description": "分类很多",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/video/qms.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.10",
+          "r18": false
+        },{
+          "sid": 807,
+          "title": "fan号鸽",
+          "author": "木子",
+          "icon": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/icons/fhg.png",
+          "description": "各种视频,有里番",
+          "json": "https://mingxi-01.coding.net/p/MingXi.Coding.me/d/Source-Sites/git/raw/main/H-Viewer/sites/video/fhg.txt",
+          "versionCode": 0,
+          "lastUpdate": "2022.1.27",
+          "r18": false
+        }
+      ]
     }
 ]

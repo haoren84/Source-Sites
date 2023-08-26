@@ -1,0 +1,65 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "HenTai",
+            "url": "https://www.ababbb.com/hent/{pageStr:page/{page:2}}"
+        },
+        {
+            "cid": 2,
+            "title": "有萌妹",
+            "url": "https://www.ababbb.com/ymm/{pageStr:page/{page:2}}"
+        },
+        {
+            "cid": 3,
+            "title": "次元萌",
+            "url": "https://www.ababbb.com/cymt/{pageStr:page/{page:2}}"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+        "pictureRule": {
+            "item": {
+                "selector": ".size-full"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "this"
+            },
+            "url": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "this"
+            }
+        }
+    },
+    "galleryUrl": "{idCode:}",
+    "gid": 7,
+    "index": 0,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "selector": ".post-module-thumb img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "selector": ".post-module-thumb a"
+        },
+        "item": {
+            "selector": ".b2_gap li"
+        },
+        "title": {
+            "fun": "text",
+            "selector": "h2 a"
+        }
+    },
+    "indexUrl": "https://www.ababbb.com",
+    "isGrid": true,
+    "sid": 103,
+    "title": "绝对领域",
+    "versionCode": 0
+}

@@ -1,0 +1,67 @@
+{
+    "categories": [
+    {
+      "cid": 1,
+      "title": "最多播放",
+      "url": "https://www.erobible.com/videos?o=mv{pageStr:&page={page:1}}"
+    },
+    {
+      "cid": 2,
+      "title": "最多收藏",
+      "url": "https://www.erobible.com/videos?o=tf{pageStr:&page={page:1}}"
+    },
+    {
+      "cid": 3,
+      "title": "最多时长",
+      "url": "https://www.erobible.com/videos?o=lg{pageStr:&page={page:1}}"
+    }
+  ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+        "videoRule": {
+            "item": {
+                "selector": "video"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "poster",
+                "selector": "this"
+            },
+            "content": {
+                  "fun": "attr",
+                  "param": "src",
+                  "regex": "(.*)",
+                  "selector": "source"
+            }
+        }
+    },
+    "galleryUrl": "https://www.erobible.com{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "selector": "img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "selector": "a"
+        },
+        "item": {
+            "selector": ".col-sm-6 div.well"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "img"
+        }
+    },
+    "indexUrl": "https://www.erobible.com/videos?o=mv{pageStr:&page={page:1}}",
+    "isGrid": true,
+    "sid": 205,
+    "title": "Erobibe by木子",
+    "versionCode": 0
+}

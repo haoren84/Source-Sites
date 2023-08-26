@@ -1,0 +1,220 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "最近更新",
+            "url": "https://www.tu111.cc/doyu/xin/{pageStr:list_1_{page:1}.html}"
+        },
+        {
+            "cid": 2,
+            "title": "秀人网",
+            "url": "https://www.tu111.cc/doyu/69/{pageStr:list_69_{page:1}.html}"
+        },
+        {
+            "cid": 3,
+            "title": "ROSI",
+            "url": "https://www.tu111.cc/doyu/78/{pageStr:list_78_{page:1}.html}"
+        },
+        {
+            "cid": 4,
+            "title": "FEILIN嗲囡囡",
+            "url": "https://www.tu111.cc/doyu/27/{pageStr:list_27_{page:1}.html}"
+        },
+        {
+            "cid": 5,
+            "title": "AISS爱丝",
+            "url": "https://www.tu111.cc/doyu/84/{pageStr:list_84_{page:1}.html}"
+        },
+        {
+            "cid": 6,
+            "title": "Ligui丽柜",
+            "url": "https://www.tu111.cc/doyu/77/{pageStr:list_77_{page:1}.html}"
+        },
+        {
+            "cid": 7,
+            "title": "ISHOW爱秀",
+            "url": "https://www.tu111.cc/doyu/41/{pageStr:list_41_{page:1}.html}"
+        },
+        {
+            "cid": 8,
+            "title": "Qingdouke青豆客",
+            "url": "https://www.tu111.cc/doyu/42/{pageStr:list_42_{page:1}.html}"
+        },
+        {
+            "cid": 9,
+            "title": "IESS异思趣向",
+            "url": "https://www.tu111.cc/doyu/16/{pageStr:list_16_{page:1}.html}"
+        },
+        {
+            "cid": 10,
+            "title": "IMISS爱蜜社",
+            "url": "https://www.tu111.cc/doyu/98/{pageStr:list_98_{page:1}.html}"
+        },
+        {
+            "cid": 11,
+            "title": "ROTGOD推女神SI",
+            "url": "https://www.tu111.cc/doyu/93/{pageStr:list_93_{page:1}.html}"
+        },
+        {
+            "cid": 12,
+            "title": "MiStar魅妍社",
+            "url": "https://www.tu111.cc/doyu/75/{pageStr:list_75_{page:1}.html}"
+        },
+        {
+            "cid": 13,
+            "title": "MFStar模范学院",
+            "url": "https://www.tu111.cc/doyu/96/{pageStr:list_96_{page:1}.html}"
+        },
+        {
+            "cid": 14,
+            "title": "LEGBABY美腿宝贝",
+            "url": "https://www.tu111.cc/doyu/87/{pageStr:list_87_{page:1}.html}"
+        },
+        {
+            "cid": 15,
+            "title": "MYGIRL美媛馆",
+            "url": "https://www.tu111.cc/doyu/99/{pageStr:list_99_{page:1}.html}"
+        },
+        {
+            "cid": 16,
+            "title": "YouWu尤物馆",
+            "url": "https://www.tu111.cc/doyu/59/{pageStr:list_59_{page:1}.html}"
+        },
+        {
+            "cid": 17,
+            "title": "UXING优星馆",
+            "url": "https://www.tu111.cc/doyu/61/{pageStr:list_61_{page:1}.html}"
+        },
+        {
+            "cid": 18,
+            "title": "HuaYan花の颜",
+            "url": "https://www.tu111.cc/doyu/17/{pageStr:list_17_{page:1}.html}"
+        },
+        {
+            "cid": 19,
+            "title": "Kimoe激萌文化",
+            "url": "https://www.tu111.cc/doyu/10/{pageStr:list_10_{page:1}.html}"
+        },
+        {
+            "cid": 20,
+            "title": "MISSLEG蜜丝",
+            "url": "https://www.tu111.cc/doyu/81/{pageStr:list_81_{page:1}.html}"
+        },
+        {
+            "cid": 21,
+            "title": "XINGYAN星颜社",
+            "url": "https://www.tu111.cc/doyu/34/{pageStr:list_34_{page:1}.html}"
+        },
+        {
+            "cid": 22,
+            "title": "XIAOYU语画界",
+            "url": "https://www.tu111.cc/doyu/2/{pageStr:list_2_{page:1}.html}"
+        },
+        {
+            "cid": 23,
+            "title": "YOUMI尤蜜荟",
+            "url": "https://www.tu111.cc/doyu/73/{pageStr:list_73_{page:1}.html}"
+        },
+        {
+            "cid": 24,
+            "title": "DKGirl御女郎",
+            "url": "https://www.tu111.cc/doyu/95/{pageStr:list_95_{page:1}.html}"
+        },
+        {
+            "cid": 25,
+            "title": "Girlt果团网",
+            "url": "https://www.tu111.cc/doyu/55/{pageStr:list_55_{page:1}.html}"
+        },
+        {
+            "cid": 26,
+            "title": "MiiTao蜜桃社",
+            "url": "https://www.tu111.cc/doyu/20/{pageStr:list_20_{page:1}.html}"
+        },
+        {
+            "cid": 27,
+            "title": "MICAT猫萌榜",
+            "url": "https://www.tu111.cc/doyu/28/{pageStr:list_28_{page:1}.html}"
+        },
+        {
+            "cid": 28,
+            "title": "CANDY糖果画报",
+            "url": "https://www.tu111.cc/doyu/13/{pageStr:list_13_{page:1}.html}"
+        },
+        {
+            "cid": 29,
+            "title": "Pans写真",
+            "url": "https://www.tu111.cc/doyu/72/{pageStr:list_72_{page:1}.html}"
+        },
+        {
+            "cid": 30,
+            "title": "LeYuan星乐园",
+            "url": "https://www.tu111.cc/doyu/90/{pageStr:list_90_{page:1}.html}"
+        },
+        {
+            "cid": 31,
+            "title": "TASTE顽味生活",
+            "url": "https://www.tu111.cc/doyu/94/{pageStr:list_94_{page:1}.html}"
+        },
+        {
+            "cid": 32,
+            "title": "HuaYang花漾",
+            "url": "https://www.tu111.cc/doyu/51/{pageStr:list_51_{page:1}.html}"
+        },
+        {
+            "cid": 33,
+            "title": "Ugirls爱尤物",
+            "url": "https://www.tu111.cc/doyu/3/{pageStr:list_3_{page:1}.html}"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|preloadGallery|waterfallAsGrid|waterfallAsList",
+    "galleryRule": {
+        "pictureRule": {
+            "item": {
+                "selector": ".content img"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "this"
+            },
+            "url": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "this"
+            }
+        }
+    },
+    "galleryUrl": "{idCode:}{pageStr:_{page:1}}.html",
+    "gid": 7,
+    "index": 0,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "src",
+            "selector": "img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "regex": "(.*?).html",
+            "selector": "a"
+        },
+        "item": {
+            "selector": "ul.box li"
+        },
+        "title": {
+            "fun": "text",
+            "selector": ".tit"
+        },
+        "datetime": {
+            "fun": "text",
+            "selector": ".tit_b"
+        }
+    },
+    "indexUrl": "https://www.tu111.cc/doyu/xin/{pageStr:list_1_{page:1}.html}",
+    "isGrid": true,
+    "sid": 108,
+    "title": "美女套图 by木子",
+    "versionCode": 0
+}

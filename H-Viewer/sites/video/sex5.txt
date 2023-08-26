@@ -1,0 +1,215 @@
+{
+    "categories": [
+        {
+            "cid": 1,
+            "title": "国产",
+            "url": "http://www.256af.com/vod/guochanzipai/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 2,
+            "title": "自拍",
+            "url": "http://www.256af.com/vod/toupaishipin/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 3,
+            "title": "se情直播",
+            "url": "http://www.256af.com/vod/seqingzhibo/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 4,
+            "title": "制服",
+            "url": "http://www.256af.com/vod/zhifusiwa/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 5,
+            "title": "动漫",
+            "url": "http://www.256af.com/vod/katongdongman/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 6,
+            "title": "日韩",
+            "url": "http://www.256af.com/vod/yazhourihan/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 7,
+            "title": "欧美",
+            "url": "http://www.256af.com/vod/oumeixingai/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 8,
+            "title": "SWAG",
+            "url": "http://www.256af.com/vod/SWAG/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 9,
+            "title": "换脸",
+            "url": "http://www.256af.com/vod/mingxinghuanlian/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 10,
+            "title": "美臀",
+            "url": "http://www.256af.com/vod/fengxiongmeitun/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 11,
+            "title": "蕾丝",
+            "url": "http://www.256af.com/vod/leisinvtong/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 12,
+            "title": "luo莉",
+            "url": "http://www.256af.com/vod/luolishaonv/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 13,
+            "title": "颜s",
+            "url": "http://www.256af.com/vod/gangjiaoyanshe/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 14,
+            "title": "亚洲图",
+            "url": "http://www.256af.com/art/yazhoutupian/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 15,
+            "title": "欧美图",
+            "url": "http://www.256af.com/art/oumeitupian/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 16,
+            "title": "美腿",
+            "url": "http://www.256af.com/art/meituisiwa/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 17,
+            "title": "清纯",
+            "url": "http://www.256af.com/art/qingchunweimei/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 18,
+            "title": "街拍",
+            "url": "http://www.256af.com/art/toupaizipai/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 19,
+            "title": "另类图",
+            "url": "http://www.256af.com/art/lingleitupian/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 20,
+            "title": "卡通",
+            "url": "http://www.256af.com/art/katongtietu/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 21,
+            "title": "shu女",
+            "url": "http://www.256af.com/art/shunvluanlun/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 22,
+            "title": "大nai",
+            "url": "http://www.256af.com/art/danaidongtu/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 23,
+            "title": "bao鱼动图",
+            "url": "http://www.256af.com/art/baoyudongtu/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 24,
+            "title": "美臀动图",
+            "url": "http://www.256af.com/art/meitundongtu/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 25,
+            "title": "女下动图",
+            "url": "http://www.256af.com/art/nvxiadongtu/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 26,
+            "title": "女骑士动图",
+            "url": "http://www.256af.com/art/nvqishiGIF/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 27,
+            "title": "后动图",
+            "url": "http://www.256af.com/art/hourudongtu/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 28,
+            "title": "咬动图",
+            "url": "http://www.256af.com/art/koujiaodongtu/{pageStr:index_{page:1}.html}"
+        },
+        {
+            "cid": 29,
+            "title": "射动图",
+            "url": "http://www.256af.com/art/shejingdongtu/{pageStr:index_{page:1}.html}"
+        }
+    ],
+    "disableHProxy": false,
+    "flag": "noRating|waterfallAsGrid|waterfallAsList|jsNeededGallery",
+    "galleryRule": {
+        "videoRule": {
+            "item": {
+                "selector": ".dplayer-video-wrap"
+            },
+            "thumbnail": {
+                "fun": "attr",
+                "param": "poster",
+                "selector": "video"
+            },
+            "content": {
+                "fun": "attr",
+                "param": "src",
+                "selector": "video"
+            }
+        },
+        "pictureRule": {
+          "item": {
+            "selector": "#tpl-img-content img"
+          },
+          "thumbnail": {
+            "fun": "attr",
+            "param": "src",
+            "selector": "this"
+          },
+          "url": {
+            "fun": "attr",
+            "param": "src",
+            "selector": "this"
+          }
+        }
+    },
+    "galleryUrl": "http://www.256af.com{idCode:}",
+    "gid": 7,
+    "index": 37,
+    "indexRule": {
+        "cover": {
+            "fun": "attr",
+            "param": "data-original",
+            "selector": "img"
+        },
+        "idCode": {
+            "fun": "attr",
+            "param": "href",
+            "selector": "a"
+        },
+        "item": {
+            "selector": "#tpl-img-content li"
+        },
+        "title": {
+            "fun": "attr",
+            "param": "title",
+            "selector": "a"
+        },
+        "datetime": {
+            "fun": "text",
+            "selector": "span.down_date"
+        }
+    },
+    "indexUrl": "http://www.256af.com/vod/guochanzipai/{pageStr:index_{page:1}.html}",
+    "isGrid": true,
+    "sid": 301,
+    "title": "SEX5 by木子",
+    "versionCode": 0
+}
